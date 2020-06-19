@@ -20,6 +20,7 @@ pmmp鯖作ってます。
 [ボスバー作成補助](https://github.com/MineDeepRock/bossbar_system)  
 [ホットバーメニュー](https://github.com/MineDeepRock/slot_menu_system)  
 [フォーム作成補助](https://github.com/MineDeepRock/form_builder)  
+[プライベートネームタグ](https://github.com/MineDeepRock/private_name_tag)  
 
 twitter : [@suinua](https://twitter.com/suinua)  
 github : [@suinua](https://github.com/suinua)  
