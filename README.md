@@ -29,6 +29,7 @@ pmmp鯖作ってます。
 [ホットバーメニュー(非推奨)](https://github.com/MineDeepRock/slot_menu_system)  
 #### PMMP Tools
 [外部サーバー追加するURLを作成](https://suinua.github.io/AddExternalServer/)  
+[PNGファイルをPMMPで読み込めるSKINに変換](https://suinua.github.io/pmmpSkin/web/index.html)  
 
 twitter : [@suinua](https://twitter.com/suinua)  
 github : [@suinua](https://github.com/suinua)  
