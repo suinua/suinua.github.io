@@ -4,7 +4,7 @@ index
 [https://github.com/suinua/markdown_web](https://github.com/suinua/markdown_web)
 
 # Chrome Extensions
-Githubのフォルダ展開
+Githubのフォルダ展開  
 [https://github.com/suinua/github-browse](https://github.com/suinua/github-browse)
 
 # MCBE向けのツール  
@@ -72,6 +72,6 @@ DUOをウェブ上で勉強
 [https://github.com/suinua/EikenPastTestDownloader](https://github.com/suinua/EikenPastTestDownloader)
 
 # SNS
-twitter : [@suinua][](https://twitter.com/suinua)  
-github : [@suinua][](https://github.com/suinua)  
+twitter : [@suinua](https://twitter.com/suinua)  
+github : [@suinua](https://github.com/suinua)  
 discord : いちねんせい#3434  
