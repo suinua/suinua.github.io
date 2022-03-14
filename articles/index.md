@@ -71,7 +71,7 @@ embed:https://github.com/suinua/kyotsu_exam_arhive
 英検  
 embed:https://github.com/suinua/EikenPastTestDownloader
 
-
 # SNS
 twitter : [@suinua](https://twitter.com/suinua)  
 github : [@suinua](https://github.com/suinua)  
+discord : いちねんせい#3434  
